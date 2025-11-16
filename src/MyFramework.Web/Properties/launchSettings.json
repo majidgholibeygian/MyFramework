@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MyFramework.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63096;http://localhost:63097"
+    }
+  }
+}
