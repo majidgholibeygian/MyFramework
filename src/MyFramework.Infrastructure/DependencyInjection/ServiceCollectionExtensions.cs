@@ -1,10 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Infrastructure.MessageBus;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MyFramework.Application.Interfaces;
 using MyFramework.Infrastructure.Persistence;
 using MyFramework.Infrastructure.Repositories;
-using MyFramework.Infrastructure.Services;
+using MyFramework.Infrastructure.Services.MessageBus;
+using MyFramework.Infrastructure.Services.Minio;
 using System;
 
 namespace MyFramework.Infrastructure.DependencyInjection
@@ -25,6 +27,13 @@ namespace MyFramework.Infrastructure.DependencyInjection
             services.AddScoped<IPersonRepository, PersonRepository>();
             services.AddSingleton<IMinioService, MinioService>();
 
+            // تنظیم RabbitMQ
+            var settings = new RabbitMqSettings();
+            services.AddSingleton(settings);
+            services.AddSingleton<RabbitMqConnection>();
+            services.AddScoped<IMessageBus, RabbitMqProducer>();
+            services.AddSingleton<RabbitMqConsumer>();
+            
             return services;
         }
     }

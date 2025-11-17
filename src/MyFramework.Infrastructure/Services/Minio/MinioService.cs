@@ -6,7 +6,7 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace MyFramework.Infrastructure.Services
+namespace MyFramework.Infrastructure.Services.Minio
 {
     public class MinioService : IMinioService
     {

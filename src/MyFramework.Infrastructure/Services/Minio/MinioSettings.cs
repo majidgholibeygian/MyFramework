@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFramework.Infrastructure.Services
+namespace MyFramework.Infrastructure.Services.Minio
 {
     public class MinioSettings
     {

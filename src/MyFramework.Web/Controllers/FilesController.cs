@@ -1,7 +1,7 @@
 // src/MyFramework.Web/Controllers/FilesController.cs
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MyFramework.Infrastructure.Services;
+using MyFramework.Infrastructure.Services.Minio;
 using System.IO;
 using System.Threading.Tasks;
 
