@@ -25,7 +25,7 @@ namespace MyFramework.Infrastructure.Services.MessageBus
                     
                   //  DispatchConsumersAsync = true
                 };
-                _connection = factory.CreateConnection();
+      //          _connection = factory.CreateConnection();
             }
             return _connection;
         }

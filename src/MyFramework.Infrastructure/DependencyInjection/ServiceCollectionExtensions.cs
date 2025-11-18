@@ -1,13 +1,16 @@
 ﻿using Infrastructure.MessageBus;
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MyFramework.Application.Interfaces;
 using MyFramework.Infrastructure.Persistence;
 using MyFramework.Infrastructure.Repositories;
+using MyFramework.Infrastructure.Services.MassTransitBus;
 using MyFramework.Infrastructure.Services.MessageBus;
 using MyFramework.Infrastructure.Services.Minio;
 using System;
+using System.Reflection;
 
 namespace MyFramework.Infrastructure.DependencyInjection
 {
@@ -33,7 +36,10 @@ namespace MyFramework.Infrastructure.DependencyInjection
             services.AddSingleton<RabbitMqConnection>();
             services.AddScoped<IMessageBus, RabbitMqProducer>();
             services.AddSingleton<RabbitMqConsumer>();
-            
+
+            // Mass transit
+            services.AddEventBus(settings);
+
             return services;
         }
     }

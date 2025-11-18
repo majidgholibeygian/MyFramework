@@ -21,13 +21,13 @@ namespace Infrastructure.MessageBus
         // تغییر امضا متد به async Task
         public async Task PublishAsync(EventMessage message)
         {
-            var connection = await _connection.GetConnection();
+            //var connection = await _connection.GetConnection();
 
-            using var channel = connection.CreateModel();
-            channel.ExchangeDeclare(_settings.ExchangeName, ExchangeType.Fanout, durable: true);
+            //using var channel = connection.CreateModel();
+            //channel.ExchangeDeclare(_settings.ExchangeName, ExchangeType.Fanout, durable: true);
 
-            var body = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(message));
-            channel.BasicPublish(exchange: _settings.ExchangeName, routingKey: "", basicProperties: null, body: body);
+            //var body = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(message));
+            //channel.BasicPublish(exchange: _settings.ExchangeName, routingKey: "", basicProperties: null, body: body );
 
          
         }

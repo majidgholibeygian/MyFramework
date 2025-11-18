@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "D:\\Train\\CICD\\FrameWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|d:\\train\\cicd\\framework\\src\\myframework.infrastructure\\services\\messagebus\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|solutionrelative:src\\myframework.infrastructure\\services\\messagebus\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|d:\\train\\cicd\\framework\\src\\myframework.infrastructure\\services\\messagebus\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|solutionrelative:src\\myframework.infrastructure\\services\\messagebus\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|d:\\train\\cicd\\framework\\src\\myframework.infrastructure\\services\\messagebus\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|solutionrelative:src\\myframework.infrastructure\\services\\messagebus\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|d:\\train\\cicd\\framework\\src\\myframework.infrastructure\\services\\masstransitbus\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|solutionrelative:src\\myframework.infrastructure\\services\\masstransitbus\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|d:\\train\\cicd\\framework\\src\\myframework.web\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|solutionrelative:src\\myframework.web\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|d:\\train\\cicd\\framework\\src\\myframework.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|solutionrelative:src\\myframework.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|d:\\train\\cicd\\framework\\src\\myframework.application\\messages\\ordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|solutionrelative:src\\myframework.application\\messages\\ordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|d:\\train\\cicd\\framework\\src\\myframework.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|solutionrelative:src\\myframework.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|d:\\train\\cicd\\framework\\src\\myframework.application\\messages\\iordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|solutionrelative:src\\myframework.application\\messages\\iordercreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|d:\\train\\cicd\\framework\\src\\myframework.web\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73CF1484-1351-191D-9723-8D28022222F4}|src\\MyFramework.Web\\MyFramework.Web.csproj|solutionrelative:src\\myframework.web\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|d:\\train\\cicd\\framework\\src\\myframework.application\\interfaces\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|solutionrelative:src\\myframework.application\\interfaces\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|d:\\train\\cicd\\framework\\src\\myframework.infrastructure\\services\\masstransitbus\\busregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|solutionrelative:src\\myframework.infrastructure\\services\\masstransitbus\\busregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|d:\\train\\cicd\\framework\\src\\myframework.infrastructure\\dependencyinjection\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|solutionrelative:src\\myframework.infrastructure\\dependencyinjection\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|d:\\train\\cicd\\framework\\src\\myframework.infrastructure\\services\\messagebus\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DACCD2-79B5-D52E-AE78-2D00E680B501}|src\\MyFramework.Infrastructure\\MyFramework.Infrastructure.csproj|solutionrelative:src\\myframework.infrastructure\\services\\messagebus\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|d:\\train\\cicd\\framework\\src\\myframework.application\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE1EFA2-B06D-C0AE-98D0-3383E61BCE3E}|src\\MyFramework.Application\\MyFramework.Application.csproj|solutionrelative:src\\myframework.application\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,141 +42,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\MyFramework.Web\\appsettings.json",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\appsettings.json",
-              "RelativeToolTip": "src\\MyFramework.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T14:30:08.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RabbitMqSettings.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqSettings.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqSettings.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqSettings.cs*",
-              "RelativeToolTip": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqSettings.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T14:21:21.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BusController.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Controllers\\BusController.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Web\\Controllers\\BusController.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Controllers\\BusController.cs",
-              "RelativeToolTip": "src\\MyFramework.Web\\Controllers\\BusController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAApwBQAAAAMAAAAAAAAAA==",
+              "Title": "IOrderCreated.cs",
+              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Messages\\IOrderCreated.cs",
+              "RelativeDocumentMoniker": "src\\MyFramework.Application\\Messages\\IOrderCreated.cs",
+              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Messages\\IOrderCreated.cs",
+              "RelativeToolTip": "src\\MyFramework.Application\\Messages\\IOrderCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:58:48.413Z",
+              "WhenOpened": "2025-11-18T09:16:01.859Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FilesController.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Controllers\\FilesController.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Web\\Controllers\\FilesController.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Controllers\\FilesController.cs",
-              "RelativeToolTip": "src\\MyFramework.Web\\Controllers\\FilesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:56:37.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RabbitMqConsumer.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConsumer.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConsumer.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConsumer.cs",
-              "RelativeToolTip": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConsumer.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAhwB0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:44:18.685Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RabbitMqProducer.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqProducer.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqProducer.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqProducer.cs",
-              "RelativeToolTip": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqProducer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAMwBcAAAAMAAAAAAAAAA==",
+              "Title": "OrderCreated.cs",
+              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Messages\\OrderCreated.cs",
+              "RelativeDocumentMoniker": "src\\MyFramework.Application\\Messages\\OrderCreated.cs",
+              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Messages\\OrderCreated.cs",
+              "RelativeToolTip": "src\\MyFramework.Application\\Messages\\OrderCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:17:40.365Z",
+              "WhenOpened": "2025-11-18T09:15:49.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RabbitMqConnection.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConnection.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConnection.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConnection.cs",
-              "RelativeToolTip": "src\\MyFramework.Infrastructure\\Services\\MessageBus\\RabbitMqConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:16:28.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMessageBus.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Interfaces\\IMessageBus.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Application\\Interfaces\\IMessageBus.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Interfaces\\IMessageBus.cs",
-              "RelativeToolTip": "src\\MyFramework.Application\\Interfaces\\IMessageBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:12:36.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Interfaces\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Application\\Interfaces\\IPersonRepository.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Application\\Interfaces\\IPersonRepository.cs",
-              "RelativeToolTip": "src\\MyFramework.Application\\Interfaces\\IPersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T07:26:40.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "src\\MyFramework.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
               "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "src\\MyFramework.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwCgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:17:24.284Z"
+              "WhenOpened": "2025-11-18T08:19:47.757Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Program.cs",
-              "RelativeDocumentMoniker": "src\\MyFramework.Web\\Program.cs",
-              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Program.cs",
-              "RelativeToolTip": "src\\MyFramework.Web\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Title": "BusRegistration.cs",
+              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\BusRegistration.cs",
+              "RelativeDocumentMoniker": "src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\BusRegistration.cs",
+              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\BusRegistration.cs",
+              "RelativeToolTip": "src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\BusRegistration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T12:50:38.271Z",
+              "WhenOpened": "2025-11-18T08:16:39.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCreatedConsumer.cs",
+              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\OrderCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\OrderCreatedConsumer.cs",
+              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\OrderCreatedConsumer.cs*",
+              "RelativeToolTip": "src\\MyFramework.Infrastructure\\Services\\MassTransitBus\\OrderCreatedConsumer.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:14:29.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusController.cs",
+              "DocumentMoniker": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Controllers\\BusController.cs",
+              "RelativeDocumentMoniker": "src\\MyFramework.Web\\Controllers\\BusController.cs",
+              "ToolTip": "D:\\Train\\CICD\\FrameWork\\src\\MyFramework.Web\\Controllers\\BusController.cs",
+              "RelativeToolTip": "src\\MyFramework.Web\\Controllers\\BusController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwCsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:12:46.904Z",
               "EditorCaption": ""
             }
           ]
