@@ -15,6 +15,7 @@ namespace MyFramework.Web.Controllers
         public FilesController(IMinioService minio) => _minio = minio;
 
         [HttpPost("upload")]
+        [RequestSizeLimit(857286400)]
         public async Task<IActionResult> Upload(IFormFile file)
         {
             if (file == null || file.Length == 0) return BadRequest("file missing");
